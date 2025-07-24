@@ -18,14 +18,14 @@ if __name__ == "__main__":
 ### 2. Run below cummands at `AI_BMT_GUI_Submitter_Linux_ARM64_Python` folder.
 
 ```bash
-export LD_LIBRARY_PATH=$(pwd)/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=$(pwd)/lib
 python main_dxnn.py
 ```
 
 ### 3. If you want to test "onnx" model, Set Model Path in `main_onnx.py` and Run below cummands at `AI_BMT_GUI_Submitter_Linux_ARM64_Python` folder.
 
 ```bash
-export LD_LIBRARY_PATH=$(pwd)/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=$(pwd)/lib
 python main_onnx.py
 ```
 
