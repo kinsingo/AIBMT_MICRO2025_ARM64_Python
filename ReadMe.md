@@ -1,6 +1,6 @@
 # Micro2025 AI Competition — Python Submitter Model Evaluation
 
-**Last Updated:** 2025-07-22
+**Last Updated:** 2025-07-24
 This guide helps you run model evaluations using the AI-BMT platform for the Micro2025 competition. Follow the instructions below to set up and evaluate either ONNX or DNNX models.
 
 ## 🚀 Start BMT
