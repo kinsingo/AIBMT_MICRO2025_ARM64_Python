@@ -10,6 +10,12 @@ Activate the virtual environment first:
 source /home/test/venv/bin/activate
 ```
 
+## (Optional) Open VSCode IDE
+You can start vscode at `AI_BMT_GUI_Submitter_Linux_ARM64_Python` folder using comman below for convenience.
+```bash
+vscode .
+```
+
 ## Start BMT
 
 ### 1. To test "dxnn" model, Run below cummands at `AI_BMT_GUI_Submitter_Linux_ARM64_Python` folder.
