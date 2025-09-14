@@ -4,7 +4,13 @@
 
 This guide helps you run model evaluations using the AI-BMT platform for the Micro2025 competition. Follow the instructions below to set up and evaluate either ONNX or DNNX models.
 
-## 🚀 Start BMT
+## Activate Python Environment
+Activate the virtual environment first: 
+```bash
+source /home/test/venv/bin/activate
+```
+
+## Start BMT
 
 ### 1. To test "dxnn" model, Run below cummands at `AI_BMT_GUI_Submitter_Linux_ARM64_Python` folder.
 
